@@ -1,0 +1,5 @@
+{
+  "name": "Video2Storyboard AI",
+  "description": "Automatically generate consistent character storyboard prompts from video analysis using Gemini AI.",
+  "requestFramePermissions": []
+}
